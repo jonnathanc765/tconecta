@@ -193,7 +193,15 @@ footer .container .contact .social-links a .fa {
     header .form {
         margin: 100px 50px 35px 45px;
     }
-    
+    footer .container .message h2 {
+        text-align: center;
+    }
+    footer .container .message {
+        padding-bottom: 0;
+    }
+    footer .container .social-links {
+        text-align:center;
+    }
 }
 
 @media (max-width: 457px) {
