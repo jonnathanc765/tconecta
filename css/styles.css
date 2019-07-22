@@ -214,5 +214,10 @@ footer .container .contact .social-links a .fa {
     header .secundary-banner {
         margin-bottom: 0px;
     }
+    header .form .button-container button {
+        border-radius: 5px;
+        padding: 50px 0;
+    }
+
     
 }
