@@ -74,7 +74,8 @@ header .form .button-container {
 header .form .button-container button {
     width: 100%;
     font-size: 45px;
-    padding: 15px;
+    padding-top: 17px;
+    padding-bottom: 15px;
     font-weight: bolder;
     font-family: "Avenir Bold";
     text-transform: uppercase;
